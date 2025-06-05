@@ -12,7 +12,7 @@ Feel free to reach out for any Freelance Projects.
 
 - 🌱 I’m currently learning **Azure DevOps**  - 👯 and looking to collaborate on **Cloud Native Projects** for help with **DevOps**
 
-- 📫 How to reach me **praveensanchay@gmail.com**
+- 📫 How to reach me **praveen379shukla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
