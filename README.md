@@ -2,7 +2,7 @@
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/47e0c760-564c-49f9-92f4-3c85d45a8e5c" />
 
-<h3 align="center">A passionate full stack developer (Dot Net),DevOps Engineer from India, working on Cloud and DevOps for 3+ years now.
+<h3 align="center">A passionate full stack developer (Dot Net), React Js,DevOps Engineer from India, working on Cloud and DevOps for 3+ years now.
 Feel free to reach out for any Freelance Projects.
 </h3>
 
@@ -11,7 +11,7 @@ Feel free to reach out for any Freelance Projects.
 
 
 
-- 🔭 I’m currently working on **Dot Net Core (ERP,CRM Projects)**
+- 🔭 I’m currently working on **Dot Net Developer**
 
 - 🌱 I’m currently learning **Azure DevOps**  - 👯 and looking to collaborate on **Cloud Native Projects** for help with **DevOps**
 
