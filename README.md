@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar shukla</h1>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/47e0c760-564c-49f9-92f4-3c85d45a8e5c" />
 <h3 align="center">A passionate full stack developer (Dot Net),DevOps Engineer from India, working on Cloud and DevOps for 3+ years now.
 Feel free to reach out for any Freelance Projects.
 </h3>
+
+<!--  <h1 align="center">Founder Of STechFix </h1> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erpkshukla&label=Profile%20views&color=0e75b6&style=flat" alt="erpkshukla" /> </p>
 
